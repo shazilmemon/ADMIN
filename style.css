@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: #191970;
+}
+.topnav{
+border: 1px solid white;
+height: 8vh;
+width: 96.8%;
+padding: 20px;
+}
+.icon i{
+    color: aqua;
+font-size: 30px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+position: relative;
+left: 200px;
+margin-left: 150px;
+bottom: 70px;
+}
+.searchbox input{
+    width: 500px;
+    height: 40px;
+}
